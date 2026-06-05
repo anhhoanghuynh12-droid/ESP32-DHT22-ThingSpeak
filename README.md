@@ -34,3 +34,6 @@ const char* WIFI_NAME = "TÊN_WIFI_CỦA_BẠN";
 const char* WIFI_PASSWORD = "MẬT_KHẨU_WIFI";
 const int myChannelNumber = 2226105; 
 const char* myApiKey = "MÃ_API_KEY_CỦA_BẠN";
+📊 Demo & Mô phỏng
+Dự án được thiết kế và mô phỏng trực quan trên nền tảng Wokwi.
+👉 Bấm vào đây để xem và chạy mô phỏng trực tuyến
